@@ -1,0 +1,1 @@
+This is an auto image slider created with vanilla JS.
